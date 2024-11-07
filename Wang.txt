@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mid Tier</title>
+  </head>
+  <body>
+    My name is Vincent. I am a sophomore. I am a computer science major.
+  </body>
+</html>
